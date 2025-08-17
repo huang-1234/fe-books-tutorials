@@ -12,7 +12,7 @@ echo "当前分支名: $branch"
 # git ci
 ciAction="feat: "
 
-ciMessage="feat: ac readme from Command line"
+ciMessage="feat: add react books"
 git add .
 
 git ci -m "$ciAction $ciMessage"
